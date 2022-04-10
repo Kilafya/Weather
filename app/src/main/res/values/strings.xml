@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="main_text">Погода в вашем городе</string>
+    <string name="hint_city_name">Название вашего города</string>
+    <string name="send_request">Узнать погоду</string>
+    <string name="support_toast">Введите название вашего города</string>
+    <string name="temp">Температура: </string>
+</resources>
